@@ -20,6 +20,7 @@
 nav {
   text-align: right;
   flex: 1;
+  margin-top: 20px;
 }
 nav ul li {
   display: inline-block;
